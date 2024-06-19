@@ -12,5 +12,6 @@ Highlights:-
 3. Various SQL functions
 
 Download the AdventureWorks database from the following location and restore it in your server:-
+
 Location:- https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
 File Name: AdventureWorks2012.bak
